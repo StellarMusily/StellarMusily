@@ -1,0 +1,17 @@
+[package]
+name = "course-payment"
+version = "0.1.0"
+edition = "2021"
+description = "Tempo: course listing, purchase with 7-day refund escrow, and instructor/co-author revenue splits"
+license = "MIT"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+doctest = false
+
+[dependencies]
+soroban-sdk = { workspace = true }
+
+[dev-dependencies]
+soroban-sdk = { workspace = true, features = ["testutils"] }
