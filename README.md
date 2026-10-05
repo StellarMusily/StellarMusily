@@ -2,7 +2,7 @@
 
 **Learn an instrument. Level up every day.**
 
-Tempo is an open-source, Udemy-style marketplace for music courses, built on Stellar.
+StellarMusily is an open-source, Udemy-style marketplace for music courses, built on Stellar.
 Instructors sell courses, learners buy them and progress through game-style levels with
 real-time pitch feedback, and Soroban smart contracts handle payments, refunds and certificates.
 
